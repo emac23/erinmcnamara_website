@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: desktop
   icon_pack: fas
-  name: PhotoShop
+  name: Editing 
 - description: 
   icon: pen-fancy 
   icon_pack: fas
