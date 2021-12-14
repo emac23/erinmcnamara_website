@@ -23,30 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.dataquest.io/
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataQuest
-  organization_url: https://www.dataquest.io/
-  title: 'Intro to Programming in R'
-  url: ""
+- certificate_url:
+  date_end: "2021-09-17"
+  date_start: "2021-09-17"
+  description: "The Avenues Mini Documentary featured in the festival."
+  organization: D.C. Student Film Fest
+  organization_url: 
+  title: Selected for the D.C. Student Film Festival 
+  url: "https://m.facebook.com/events/the-wharf/dc-student-film-fest/2889331891326803/"
+
 
 design:
   columns: '2' 
