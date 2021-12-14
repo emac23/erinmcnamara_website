@@ -25,35 +25,45 @@ experience:
   - title: Student
     company: George Washington University 
     company_url: 'https://www.gwu.edu/'
-    company_logo: org-gc
+    company_logo: 
     location: Washington, D.C
-    date_start: '2018'
-    date_end: '2022'
+    date_start: '2018-08-01'
+    date_end: '2022-05-01'
     description: |2-
         Details:
         
         * Majored in Journalism and Mass Communication
         * Concentration in Documentary Film Making
-        * Dean's List
-        
+        * Deans List
+      
   - title: Production Assistant
-    company: Jigsaw Productions 
+    company: Jigsaw Productions
     company_url: 'http://www.jigsawprods.com/'
-    company_logo: org-x
-    location: New York
-    date_start: 'May 2021'
-    date_end: 'May 2021'
-    description: Assisted on a film shoot for an unannounced docuseries for a premium streaming service.
-    
-    - title: Business Development Intern
-    company: Dan Klein Films  
-    company_url: 'https://dankleinfilms.com/'
-    company_logo: org-x
-    location: New York
-    date_start: 'June 2021'
-    date_end: 'August 2021'
-    description: Handled responsibilities in line with business development. Assisted in production process on a TV show for a major broadcast network. 
+    company_logo: 
+    location: New York 
+    date_start: '2021-05-01'
+    date_end: '2021-05-01'
+    description: |2-
+        Details:
+        
+        * Assisted on a film shoot for an unannounced docuseries for a premium streaming service 
+        * Performed administrative tasks
 
+ 
+  - title: Business development Intern
+    company: Dan Klein Films
+    company_url: 'https://dankleinfilms.com/'
+    company_logo: 
+    location: New York
+    date_start: '2021-06-01'
+    date_end: '2021-08-01'
+    description: |2-
+        Details:
+        
+        * Performed tasks in Business Development
+        * Assisted in Production Process for docuseries for major broadcast network 
+
+  
 design:
   columns: '2'
 ---
