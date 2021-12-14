@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Student
+    company: George Washington University 
+    company_url: 'https://www.gwu.edu/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Washington, D.C
+    date_start: '2018'
+    date_end: '2022'
     description: |2-
-        Responsibilities include:
+        Details:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Majored in Journalism and Mass Communication
+        * Concentration in Documentary Film Making
+        * Dean's List
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Production Assistant
+    company: Jigsaw Productions 
+    company_url: 'http://www.jigsawprods.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: New York
+    date_start: 'May 2021'
+    date_end: 'May 2021'
+    description: Assisted on a film shoot for an unannounced docuseries for a premium streaming service.
+    
+    - title: Business Development Intern
+    company: Dan Klein Films  
+    company_url: 'https://dankleinfilms.com/'
+    company_logo: org-x
+    location: New York
+    date_start: 'June 2021'
+    date_end: 'August 2021'
+    description: Handled responsibilities in line with business development. Assisted in production process on a TV show for a major broadcast network. 
 
 design:
   columns: '2'
