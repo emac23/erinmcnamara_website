@@ -43,7 +43,9 @@ experience:
     location: New York
     date_start: 'May 2021'
     date_end: 'May 2021'
-    description: Assisted on a film shoot for an unannounced docuseries for a premium streaming service.
+    description: |2-
+    Assisted on a film shoot for an unannounced docuseries for a 
+    premium streaming service.
     
     - title: Business Development Intern
     company: Dan Klein Films  
@@ -52,7 +54,10 @@ experience:
     location: New York
     date_start: 'June 2021'
     date_end: 'August 2021'
-    description: Handled responsibilities in line with business development. Assisted in production process on a TV show for a major broadcast network. 
+    description: |2- 
+    Handled responsibilities in line with business development.
+    Assisted in production process on a TV show for a major
+    broadcast network. 
 
 design:
   columns: '2'
