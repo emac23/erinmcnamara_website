@@ -32,9 +32,9 @@ experience:
     description: |2-
         Details:
         
-        * Majored in Journalism and Mass Communication
-        * Concentration in Documentary Film Making
-        * Deans List
+        * Majored in Journalism and Mass Communication.
+        * Concentration in Documentary Film Making.
+        * Deans List.
       
   - title: Production Assistant
     company: Jigsaw Productions
@@ -46,8 +46,8 @@ experience:
     description: |2-
         Details:
         
-        * Assisted on a film shoot for an unannounced docuseries for a premium streaming service 
-        * Performed administrative tasks
+        * Assisted on a film shoot for an unannounced docuseries for a premium streaming service.
+        * Included both interview and vérité components.
 
  
   - title: Business development Intern
@@ -60,9 +60,21 @@ experience:
     description: |2-
         Details:
         
-        * Performed tasks in Business Development
-        * Assisted in Production Process for docuseries for major broadcast network 
-
+        * Performed tasks in line with business development.
+        * Assisted in production process for docuseries for major broadcast network.
+    
+  - title: Events Director 
+    company: WRGW District Radio 
+    company_url: 'https://gwradio.com/'
+    company_logo: 
+    location: Washington, D.C. 
+    date_start: '2021-08-01'
+    date_end: ''
+    description: |2-
+        Details:
+        
+        * Organizes promotional events for WRGW District Radio.
+        * Hosts a music show. 
   
 design:
   columns: '2'
