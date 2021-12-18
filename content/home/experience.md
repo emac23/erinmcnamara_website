@@ -34,7 +34,7 @@ experience:
         
         * Majored in Journalism and Mass Communication.
         * Concentration in Documentary Film Making.
-        * Deans List.
+        * Dean's List.
       
   - title: Production Assistant
     company: Jigsaw Productions
