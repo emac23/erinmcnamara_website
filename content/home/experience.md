@@ -50,7 +50,7 @@ experience:
         * Included both interview and vérité components.
 
  
-  - title: Business development Intern
+  - title: Business Development Intern
     company: Dan Klein Films
     company_url: 'https://dankleinfilms.com/'
     company_logo: 

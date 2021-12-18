@@ -1,6 +1,6 @@
 ---
 title: C-Brass Conductor Profile
-summary: An example of linking directly to an external project website using `https://www.youtube.com/watch?v=cL90VKKyVz4 `.
+summary: Profile on student conductor of GWU's C-brass. `https://www.youtube.com/watch?v=cL90VKKyVz4 `.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
