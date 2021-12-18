@@ -59,6 +59,6 @@ email: ""
 highlight_name: true
 ---
 
-Erin McNamara is a journalism student who hopes to have a career in documentary film making. Although graduating with a degree in Journalism and Mass Communication, she organized her coursework to concentrate specifically on documentary. When Erin is not doing schoolwork she is organizing events for WRGW District Radio or attending small music shows around Washington, D.C. 
+Erin McNamara is a journalism student who hopes to have a career in documentary filmmaking. Although graduating with a degree in Journalism and Mass Communication, she organized her coursework to concentrate specifically on documentary. When Erin is not doing schoolwork she is organizing events for WRGW District Radio or attending small music shows around Washington, D.C. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
