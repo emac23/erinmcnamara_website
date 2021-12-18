@@ -2,7 +2,7 @@
 title: Jazz Orchestra Commercial 
 summary: Commercial for the GWU Jazz Orchestra.  `https://www.youtube.com/watch?v=st5srjUt-d0&feature=youtu.be`.
 tags:
-- Demo
+- Advertising
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

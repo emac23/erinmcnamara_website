@@ -2,7 +2,7 @@
 title: Photojournalism - DuPont Underground 
 summary: Photojournalism project profiling DuPont Underground `https://www.youtube.com/watch?v=PUmbgu-vGKU`.
 tags:
-- Demo
+- Documentary
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: The Avenues Mini Documentary
 summary: Short Documentary on Washington, D.C. Grunge Band. `https://www.youtube.com/watch?v=zvYP4AsUcJo`.
 tags:
-- Demo
+- Documentary
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
